@@ -4,9 +4,9 @@
  [![github](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/penepo) [![github](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/penepo)
 
 
-![penepo GitHub stats](https://github-readme-stats.vercel.app/api?username=penepo&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
 
 ## Tecnologias que mais uso
 
